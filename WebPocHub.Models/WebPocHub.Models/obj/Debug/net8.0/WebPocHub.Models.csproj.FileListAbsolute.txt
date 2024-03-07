@@ -1,0 +1,14 @@
+C:\Users\mantu\Documents\C# Api 2022\api\WebPocHub.Models\WebPocHub.Models\bin\Debug\net8.0\WebPocHub.Models.deps.json
+C:\Users\mantu\Documents\C# Api 2022\api\WebPocHub.Models\WebPocHub.Models\bin\Debug\net8.0\WebPocHub.Models.runtimeconfig.json
+C:\Users\mantu\Documents\C# Api 2022\api\WebPocHub.Models\WebPocHub.Models\bin\Debug\net8.0\WebPocHub.Models.dll
+C:\Users\mantu\Documents\C# Api 2022\api\WebPocHub.Models\WebPocHub.Models\bin\Debug\net8.0\WebPocHub.Models.pdb
+C:\Users\mantu\Documents\C# Api 2022\api\WebPocHub.Models\WebPocHub.Models\obj\Debug\net8.0\WebPocHub.Models.csproj.AssemblyReference.cache
+C:\Users\mantu\Documents\C# Api 2022\api\WebPocHub.Models\WebPocHub.Models\obj\Debug\net8.0\WebPocHub.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mantu\Documents\C# Api 2022\api\WebPocHub.Models\WebPocHub.Models\obj\Debug\net8.0\WebPocHub.Models.AssemblyInfoInputs.cache
+C:\Users\mantu\Documents\C# Api 2022\api\WebPocHub.Models\WebPocHub.Models\obj\Debug\net8.0\WebPocHub.Models.AssemblyInfo.cs
+C:\Users\mantu\Documents\C# Api 2022\api\WebPocHub.Models\WebPocHub.Models\obj\Debug\net8.0\WebPocHub.Models.csproj.CoreCompileInputs.cache
+C:\Users\mantu\Documents\C# Api 2022\api\WebPocHub.Models\WebPocHub.Models\obj\Debug\net8.0\WebPocHub.Models.dll
+C:\Users\mantu\Documents\C# Api 2022\api\WebPocHub.Models\WebPocHub.Models\obj\Debug\net8.0\refint\WebPocHub.Models.dll
+C:\Users\mantu\Documents\C# Api 2022\api\WebPocHub.Models\WebPocHub.Models\obj\Debug\net8.0\WebPocHub.Models.pdb
+C:\Users\mantu\Documents\C# Api 2022\api\WebPocHub.Models\WebPocHub.Models\obj\Debug\net8.0\WebPocHub.Models.genruntimeconfig.cache
+C:\Users\mantu\Documents\C# Api 2022\api\WebPocHub.Models\WebPocHub.Models\obj\Debug\net8.0\ref\WebPocHub.Models.dll

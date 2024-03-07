@@ -1,0 +1,17 @@
+C:\Users\mantu\Documents\C# Api 2022\api\UdemyLecture\WebPocHub.dal\WebPocHub.dal\bin\Debug\net8.0\WebPocHub.dal.deps.json
+C:\Users\mantu\Documents\C# Api 2022\api\UdemyLecture\WebPocHub.dal\WebPocHub.dal\bin\Debug\net8.0\WebPocHub.dal.runtimeconfig.json
+C:\Users\mantu\Documents\C# Api 2022\api\UdemyLecture\WebPocHub.dal\WebPocHub.dal\bin\Debug\net8.0\WebPocHub.dal.dll
+C:\Users\mantu\Documents\C# Api 2022\api\UdemyLecture\WebPocHub.dal\WebPocHub.dal\bin\Debug\net8.0\WebPocHub.dal.pdb
+C:\Users\mantu\Documents\C# Api 2022\api\UdemyLecture\WebPocHub.dal\WebPocHub.dal\bin\Debug\net8.0\WebPocHub.Models.dll
+C:\Users\mantu\Documents\C# Api 2022\api\UdemyLecture\WebPocHub.dal\WebPocHub.dal\bin\Debug\net8.0\WebPocHub.Models.pdb
+C:\Users\mantu\Documents\C# Api 2022\api\UdemyLecture\WebPocHub.dal\WebPocHub.dal\obj\Debug\net8.0\WebPocHub.dal.csproj.AssemblyReference.cache
+C:\Users\mantu\Documents\C# Api 2022\api\UdemyLecture\WebPocHub.dal\WebPocHub.dal\obj\Debug\net8.0\WebPocHub.dal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mantu\Documents\C# Api 2022\api\UdemyLecture\WebPocHub.dal\WebPocHub.dal\obj\Debug\net8.0\WebPocHub.dal.AssemblyInfoInputs.cache
+C:\Users\mantu\Documents\C# Api 2022\api\UdemyLecture\WebPocHub.dal\WebPocHub.dal\obj\Debug\net8.0\WebPocHub.dal.AssemblyInfo.cs
+C:\Users\mantu\Documents\C# Api 2022\api\UdemyLecture\WebPocHub.dal\WebPocHub.dal\obj\Debug\net8.0\WebPocHub.dal.csproj.CoreCompileInputs.cache
+C:\Users\mantu\Documents\C# Api 2022\api\UdemyLecture\WebPocHub.dal\WebPocHub.dal\obj\Debug\net8.0\WebPocHu.31E0ABEE.Up2Date
+C:\Users\mantu\Documents\C# Api 2022\api\UdemyLecture\WebPocHub.dal\WebPocHub.dal\obj\Debug\net8.0\WebPocHub.dal.dll
+C:\Users\mantu\Documents\C# Api 2022\api\UdemyLecture\WebPocHub.dal\WebPocHub.dal\obj\Debug\net8.0\refint\WebPocHub.dal.dll
+C:\Users\mantu\Documents\C# Api 2022\api\UdemyLecture\WebPocHub.dal\WebPocHub.dal\obj\Debug\net8.0\WebPocHub.dal.pdb
+C:\Users\mantu\Documents\C# Api 2022\api\UdemyLecture\WebPocHub.dal\WebPocHub.dal\obj\Debug\net8.0\WebPocHub.dal.genruntimeconfig.cache
+C:\Users\mantu\Documents\C# Api 2022\api\UdemyLecture\WebPocHub.dal\WebPocHub.dal\obj\Debug\net8.0\ref\WebPocHub.dal.dll
